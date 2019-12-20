@@ -1,2 +1,2 @@
 # Student_community_system
-Third year Project
+Related to junior and senior student interaction
